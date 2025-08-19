@@ -1,5 +1,4 @@
 # Danylo
-HELLO
 Eu sou o Danylo!  
 Transformo café em código e problemas em soluções. Tenho 4 anos de experiência explorando linguagens e tecnologias para criar softwares e games que funcionam de verdade.
 
